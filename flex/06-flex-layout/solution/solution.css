@@ -28,10 +28,6 @@ input {
 
 /* SOLUTION */
 
-body {
-  display: flex;
-  flex-direction: column;
-}
 
 button {
   padding: 8px 16px;
@@ -68,3 +64,9 @@ ul {
   padding: 0;
   gap: 16px
 }
+body {
+  display: flex;
+  flex-direction: column;
+}
+
+
